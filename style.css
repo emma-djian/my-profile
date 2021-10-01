@@ -1,0 +1,68 @@
+
+body {
+	background-color: rgb(230, 230, 230);
+	font-family: system-ui;
+	font-size: 15px; 
+	line-height: 35px;
+	width: 600px;
+	margin: 0px auto 
+}
+.list-inline > li {
+  display: inline; 
+  padding: 0px 20px; 
+}
+.list-inline {
+  list-style: none; 
+  padding-left: 0px; 
+}
+
+
+
+h1 {
+	color: rgb(100, 100, 100);
+	font-family: Courier;
+	font-size: 25px 
+	background: white;                        
+    padding: 30px;                             
+    border-radius: 4px;                      
+}
+
+
+h4 {
+	color: rgb(0, 150, 150); 
+	font-family: Helvetica; 
+	font-weight: 100;
+	letter-spacing: 2px
+	font-size: 30px;
+}
+
+
+h3 {
+	color: rgb(19, 80, 60); 
+	font-family: Arial;
+	font-size: 13px 
+}
+
+img {
+	border-radius: 50%
+}
+
+h1, h3 {
+	font-weight: lighter
+}
+
+.container {
+  width: 700px; 
+  margin: 40px auto; 
+  text-align: center;
+}
+
+.card-white {
+	background-color: white;
+	border-radius: 6px; 
+	box-shadow: rgba(0,0,1,0.1)
+}
+
+div {
+	text-align: 
+}
